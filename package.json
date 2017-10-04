@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cnsimbe/pushIntent.git"
+    "url": "git://github.com/cnsimbe/pushIntent.git"
   },
   "keywords": [
     "ecosystem:cordova",
